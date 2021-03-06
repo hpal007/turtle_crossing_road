@@ -3,7 +3,7 @@ Inspiration for this project was Disney Crossy Road.
 
 ## Package used: PythonTurtle
 
-### Screenshot
+### GIF
 
 <img src="turtle_game.gif" width="300" height="300"/>)
 
