@@ -1,4 +1,14 @@
 # turtle_crossing_road
 Inspiration for this project was Disney Crossy Road.
 
-![image](https://user-images.githubusercontent.com/79990118/110200002-74c6d200-7e81-11eb-8fd3-b7b36f4a58f0.png)
+## Package used: PythonTurtle
+
+## Gameplay
+
+![image](https://user-images.githubusercontent.com/79990118/110200098-29f98a00-7e82-11eb-825e-db75a61199a7.png)
+
+## Game controls
+
+### move up using up arrow key
+### move down using down arrow key
+### restart using space key
