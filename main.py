@@ -24,6 +24,7 @@ scoreboard = Scoreboard()
 def restart_game():
     os.execv(sys.executable, ['python'] + sys.argv)
 
+
 # keyboard action
 screen.listen()
 screen.onkey(player.move_forward, 'Up')
